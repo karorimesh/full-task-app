@@ -1,0 +1,3 @@
+[submodule "task-app"]
+	path = task-app
+	url = https://github.com/karorimesh/task-app-front.git
